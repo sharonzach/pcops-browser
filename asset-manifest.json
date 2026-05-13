@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pcops-browser/static/css/main.e6c13ad2.css",
+    "main.js": "/pcops-browser/static/js/main.597b29bd.js",
+    "static/js/453.1eafe06e.chunk.js": "/pcops-browser/static/js/453.1eafe06e.chunk.js",
+    "index.html": "/pcops-browser/index.html",
+    "main.e6c13ad2.css.map": "/pcops-browser/static/css/main.e6c13ad2.css.map",
+    "main.597b29bd.js.map": "/pcops-browser/static/js/main.597b29bd.js.map",
+    "453.1eafe06e.chunk.js.map": "/pcops-browser/static/js/453.1eafe06e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.597b29bd.js"
+  ]
+}
